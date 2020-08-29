@@ -1,0 +1,5 @@
+rest\RenameMeResource.class
+entities\BankCustomer.class
+facades\FacadeExample.class
+entities\BankCustomer_.class
+rest\ApplicationConfig.class
